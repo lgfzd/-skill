@@ -1,0 +1,3 @@
+display_name: 前端代码规范
+short_description: 编写、审查、重构前端代码时强制格式、命名、数据分离、冗余消除和状态安全规则
+default_prompt: 帮我按照前端代码规范编写/审查/重构这个组件
